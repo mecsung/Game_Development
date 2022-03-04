@@ -1,4 +1,4 @@
-# Game_deveopment
+# Game_Development
 Compilation of my created games using pygame.<br>
 The objective of this project is to see how old programs can be converted using modern day practices.
 
